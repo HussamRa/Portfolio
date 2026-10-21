@@ -7,7 +7,7 @@ const projects = [
     description: "A beautiful landing page app using JavaScript and Tailwind.",
     image: "/projects/project1.png",
     tags: ["JavaScript", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
+    demoUrl: "https://e-commerce-app-91bb.vercel.app",
     githubUrl: "https://github.com/HussamRa/Responsive-Delivery-Website",
     },
     {

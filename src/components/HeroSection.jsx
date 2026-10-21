@@ -18,7 +18,7 @@ export const HeroSection = () => {
 
             <div className="pt-4 opacity-0 animate-fade-in-delay-4">
                 <a href="#projects" className="cosmic-button">Explore My Projects</a>
-                <a href="/public/Hussam_Ratlh_Front-end Developer_resume.pdf"
+                <a href="/public/Hussam-Ratlh-Resume.pdf"
                 target="_blank"
                 className="px-6 py-2 ml-6 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                 >
