@@ -16,13 +16,14 @@ export const HeroSection = () => {
             both beautiful and functional.
             </p>
 
-            <div className="pt-4 opacity-0 animate-fade-in-delay-4">
+            <div className="flex flex-col md:flex-row justify-center items-center gap-4 pt-4 opacity-0 animate-fade-in-delay-4">
                 <a href="#projects" className="cosmic-button">Explore My Projects</a>
-                <a href="/public/Hussam-Ratlh-Resume.pdf"
+                <a href="/Hussam-Ratlh-Resume.pdf"
                 target="_blank"
-                className="px-6 py-2 ml-6 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+                className="inline-flex items-center gap-2 px-6 py-2 ml-6 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                 >
-                Open CV
+                <span>📄</span>
+                <span className="font-semibold">Open CV</span>
                 </a>
             </div>
             </div>

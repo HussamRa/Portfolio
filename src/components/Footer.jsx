@@ -25,7 +25,7 @@ export const Footer = () => {
       />
       <div className="container">
         <div className="border-t border-white py-6 text-sm flex flex-col md:flex-row md:justify-between items-center gap-8">
-          <div>&copy; 2027. Hussam Ratlh.All rights reserved.</div>
+          <div>&copy; 2026. Hussam Ratlh.All rights reserved.</div>
           <nav className="flex flex-col md:flex-row items-center gap-8">
             {footerLinks.map((link) => (
               <a
